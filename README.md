@@ -7,4 +7,4 @@
 
 | Проект                | Описание              | Решение                   |
 |:----------------------|:----------------------|:--------------------------|
-| [English Movie Level Prediction: Research and App](https://github.com/Nanobelka/english_subtitles_level) | Приложение на платформе Streamlit, основанное на модели машинного обучения, для предсказания CEFR-уровня английского языка по субтитрам к фильму/сериалу – для всех, кто изучает английский язык. | [Приложение](https://movie-level.streamlit.app/) |
+| [English Movie Level Prediction: Research and App](https://github.com/Nanobelka/english_subtitles_level) | Приложение на платформе Streamlit, основанное на модели машинного обучения, для предсказания CEFR-уровня английского языка по субтитрам к фильму/сериалу. Для всех, кто изучает английский язык. | [Приложение](https://movie-level.streamlit.app/) |
