@@ -7,5 +7,7 @@
 
 | Проект                | Описание              | Решение                   | Технологии |
 |:----------------------|:----------------------|:--------------------------|:-----------|
+| [Мэтчинг товаров по описанию](https://github.com/Nanobelka/prosept_matching) |   |   |   |
+| [Определение оригинал/кавер для музыкальных треков](https://github.com/Nanobelka/Yandex_Music_original_detection) |   |   |   |
 | [Вероятность покупки клиентом оборудования в компании R1 Telecom](https://github.com/Nanobelka/R1_2800_features) |   |   |   |
 | [English Movie Level Prediction: Research and App](https://github.com/Nanobelka/english_subtitles_level) | Приложение на платформе Streamlit, основанное на модели машинного обучения, для предсказания CEFR-уровня английского языка по субтитрам к фильму/сериалу. Для всех, кто изучает английский язык. | [Приложение](https://movie-level.streamlit.app/) |   |
