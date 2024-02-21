@@ -5,6 +5,6 @@
 Выявление и решение подобных задач есть в публикуемых здесь проектах.
 
 
-| Проект                | Описание           | Решение          |
+| Проект                | Описание              | Решение                   |
 |:----------------------|:----------------------|:--------------------------|
-| [English Movie Level Prediction: Research and App](https://github.com/Nanobelka/english_subtitles_level) | Streamlit application based ML-model for prediction of english movie CEFR-level – for everyone who is learning English | [application](https://movie-level.streamlit.app/), `Streamlit`, `Python`, `Sklearn`, `NLTK`, `Pipeline`, `TfidfVectorizer`, `TruncatedSVD`, `FeatureUnion`, `Optuna`, `ConfusionMatrixDisplay`, `yellowbrick`, `OneClassSVM`, raw data, NLP, TF-IDF, custom classes for pipeline, extended stopwords, custom metric for model, clusterization, outliers detection |
+| [English Movie Level Prediction: Research and App](https://github.com/Nanobelka/english_subtitles_level) | Приложение на платформе Streamlit, основанное на модели машинного обучения, для предсказания CEFR-уровня английского языка по субтитрам к фильму/сериалу – для всех, кто изучает английский язык | [Приложение](https://movie-level.streamlit.app/) |
